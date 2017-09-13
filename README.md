@@ -2,4 +2,4 @@
 
 #
 
-Projetos desenvolvidos durante a disciplina Estrutura de Dados 1 na Universidade Federal da Fronteira Sul
+Projetos desenvolvidos durante a disciplina Estrutura de Dados 2 na Universidade Federal da Fronteira Sul
